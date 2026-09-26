@@ -50,3 +50,35 @@ arc-points-leaderboard/
 ├── package.json
 ├── vite.config.ts
 └── README.md
+
+## How It Works
+
+1. Connect your wallet.
+2. Register a username.
+3. Interact with the points system.
+4. Points are recorded through the smart contract.
+5. View the current leaderboard.
+
+## Testnet Notice
+
+This project is deployed on Arc Testnet for learning and experimentation.
+
+Testnet assets have no monetary value.
+
+Never commit `.env`, private keys, or seed phrases.
+
+## Built With Arc Studio
+
+This project was built and tested using Arc Studio to explore smart contract development and onchain application workflows on Arc Testnet.
+
+## Status
+
+Testnet project — built for experimentation and learning.
+
+## Author
+
+Built by [vijay0664kumar](https://github.com/vijay0664kumar)
+
+## License
+
+MIT
