@@ -82,6 +82,3 @@ Author
 
 Built by vijay0664kumar
 
-License
-
-MIT
