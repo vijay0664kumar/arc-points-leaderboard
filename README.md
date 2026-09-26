@@ -1,3 +1,4 @@
+Arc Points Leaderboard
 # Arc Points Leaderboard
 
 An onchain points leaderboard built on Arc Testnet using Arc Studio.
@@ -50,3 +51,37 @@ arc-points-leaderboard/
 ├── package.json
 ├── vite.config.ts
 └── README.md
+Getting Started
+Install dependencies
+bun install
+Start the development server
+bun run dev
+How It Works
+Connect your wallet.
+Register a username.
+Interact with the points system.
+Points are recorded through the smart contract.
+View the current leaderboard.
+Testnet Notice
+
+This project is deployed on Arc Testnet for learning and experimentation.
+
+Testnet assets have no monetary value.
+
+Never commit .env, private keys, or seed phrases.
+
+Built With Arc Studio
+
+This project was built and tested using Arc Studio to explore smart contract development and onchain application workflows on Arc Testnet.
+
+Status
+
+Testnet project — built for experimentation and learning.
+
+Author
+
+Built by vijay0664kumar
+
+License
+
+MIT
